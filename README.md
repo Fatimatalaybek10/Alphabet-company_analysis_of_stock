@@ -43,4 +43,14 @@ This project compares several models for predicting Alphabet stock prices:
 - Long Short-Term Memory network (LSTM)
 - Convolutional Neural Network (CNN)
 
-The goal is to evaluate and compare the predictive performance of different deep learning architectures for financial time series forecasting.
+The goal is to evaluate and compare the predictive performance of different deep learning architectures for financial time series forecasting. 
+
+
+#Language of the notebooks - Korean
+
+
+## Note
+This repository is shared for academic purposes. 
+Please provide appropriate citation if referencing this work.
+
+© 2026 Fatima Sultakeeva
